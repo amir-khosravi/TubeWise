@@ -14,24 +14,6 @@
 - **Multilingual Support:** Interface available in English, Spanish, and Portuguese.
 
 
-## 🧭 Project Structure
-
-tubewise-mcp/
-├── services/
-│   └── ai-service/           # AI service built with FastAPI
-│       ├── simple_app.py     # Main FastAPI application
-│       └── requirements.txt  # Python dependencies
-├── web-client/               # Web interface built with Next.js
-│   ├── public/               # Static assets and translations
-│   │   └── locales/          # Translation files
-│   ├── src/                  # Source code
-│   │   ├── pages/            # Next.js pages
-│   │   └── types/            # TypeScript definitions
-│   ├── package.json          # Node.js dependencies
-│   └── tsconfig.json         # TypeScript configuration
-├── .env                      # Root-level environment variables
-├── docker-compose.yml        # Docker configuration
-└── README.md                 # Project documentation
 
 
 ---
