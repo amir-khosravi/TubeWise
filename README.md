@@ -50,7 +50,6 @@ TubeWise follows a modern, scalable multi-service design.
 
 ### 🧠 Setting Up the app
 
-1. **Install Python dependencies**
 ```bash
 cd services/auth-service
 node src/app.js
