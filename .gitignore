@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+.next/
+.out/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+.venv/
+venv/
+env/
+
+# Env & config
+.env
+.env.local
+.env.*
+.DS_Store
+
+# Misc
+.idea/
+.vscode/
+.cache/
